@@ -59,9 +59,8 @@
 ---
 
 ## ✉️ Contact
-- Email: jhc400573@gmail.com
-- Notion/Blog: https://sushichan.tistory.com/
-
+- Email: 
+- Notion/Blog: 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
